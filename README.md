@@ -1,2 +1,3 @@
-# d3graphs
-graphs using d3 js (ts)
+# A React component that graphs CSVm JSON files
+
+Using D3.js to graph
