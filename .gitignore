@@ -47,7 +47,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-
-# defaults
-build_notes.md
-build_notes2.md
